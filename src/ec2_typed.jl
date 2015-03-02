@@ -1,6 +1,8 @@
 
-include("ec2_types.jl")
-include("ec2_operations.jl")
+include("ec2_dynamic.jl")
+
+#include("ec2_types.jl")
+#include("ec2_operations.jl")
 #include("api.jl")
 
 
